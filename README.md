@@ -1,4 +1,4 @@
-# Reliance Smart Sales Dashboard
+# Reliance Smart Business Insights Dashboard
 
 # **Overview**
 
